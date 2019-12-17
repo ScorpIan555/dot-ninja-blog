@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "dot-ninja-blog",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Ian Daley dot Ninja - Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "ian",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.18.8",
@@ -26,7 +26,7 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "dot-ninja-blog"
   ],
   "license": "MIT",
   "scripts": {
@@ -40,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/Scorpian555/ninja-blog"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/Scorpian555/ninja-blog"
   }
 }
