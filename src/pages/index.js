@@ -12,7 +12,7 @@ const BlogLink = styled(Link)`
 
 const BlogTitle = styled.h4`
   margin-bottom: 20px;
-  color: #006600;
+  color: #0390fc;
 `;
 
 export default ({ data }) => {
