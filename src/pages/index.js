@@ -10,7 +10,7 @@ const BlogLink = styled(Link)`
   text-decoration: none;
 `;
 
-const BlogTitle = styled.h3`
+const BlogTitle = styled.h4`
   margin-bottom: 20px;
   color: #006600;
 `;

@@ -3,7 +3,7 @@ title: '¿Por Qué No Hemos Conocido E.T. ?'
 date: '2019-12-15'
 description: 'Una nueva teoría podrįa explicar por qué ya no hemos hallado vida extraterrestre'
 lang: 'es'
-filed-under: 'vida alienígena SETI'
+filed-under: 'vida-alienígena SETI'
 ---
 
 Una nueva y fascinante teoría explica por qué no hemos hallado vida extraterrestre: velocidad de escape
