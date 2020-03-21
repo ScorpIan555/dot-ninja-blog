@@ -9,7 +9,7 @@ lang: 'es'
 
 Woof.
 
-Tan pronto comencé a ver el episodio, inmediatamente sabía que este episodio iba a ser fantástico porque, toma mi vida me ha parecido que las peleas entre dos chicas gordas contienen un poco más rabia y furia. También, en su declaración de apertura, la demandante paró hablando para corregirse cuando dijo “es mi amiga- no, es mi ex-amiga”. Entonces, se cayó el martillo, ¡estaba demandando a su “ex-amiga” por cincuenta mil dólares!
+Tan pronto comencé a ver el episodio, inmediatamente sabía que este episodio iba a ser fantástico porque, toda mi vida me ha parecido que las peleas entre dos chicas con sobrepeso contienen un poco más rabia y furia, por lo tanto, hacen muy buena televisión. También, en su declaración de apertura, la demandante paró hablando para corregirse cuando dijo “es mi amiga- no, es mi ex-amiga”. Y así, se cayó el martillo, ¡estaba demandando a su “ex-amiga” por cincuenta mil dólares!
 
 Para ser justo, tiene un punto. La demandada supuestamente debía ser la fotógrafa de la boda de la demandante, y según la demandante, la boda iba a tomar lugar en West Palm Beach, lo que posiblemente sea la parte más cara y rica de Florida. Continuó describiendo sobre los planes y etc, etc.
 
