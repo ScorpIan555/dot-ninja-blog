@@ -18,9 +18,9 @@ const BlogTitle = styled.h4`
 export default ({ data }) => {
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Ian Daley dot Ninja blog" />
       <div>
-        <h1>Blog (or worse...)</h1>
+        <h2>Blog (or worse...)</h2>
         {/* <h4>{data.allMarkdownRemark.totalCount}</h4> */}
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
