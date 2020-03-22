@@ -1,5 +1,5 @@
 ---
-title: 'El Muerte de Galileo'
+title: 'La Muerte de Galileo'
 date: '2019-12-14'
 description: ''
 lang: 'es'
