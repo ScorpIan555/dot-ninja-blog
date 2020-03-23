@@ -1,5 +1,5 @@
 ---
-title: 'El arma mas fuerte de Greta'
+title: 'El Arma Más Fuerte de Greta'
 date: '2019-12-16'
 description: 'Vídeo de France 24 sobre Greta Thunberg'
 lang: 'es'

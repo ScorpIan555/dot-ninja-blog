@@ -1,5 +1,5 @@
 ---
-title: '¿Por Qué No Hemos Conocido E.T.?'
+title: '¿Por Qué No Hemos Conocido a E.T.?'
 date: '2019-12-15'
 description: 'Una nueva teoría podrįa explicar por qué ya no hemos hallado vida extraterrestre'
 lang: 'es'
